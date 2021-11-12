@@ -1,6 +1,6 @@
 .ipynb_checkpoints/
 datos/
-# *.xlsx
+*.xlsx
 dash/__pycache__/
 dash/aws/
 dash/data/*
